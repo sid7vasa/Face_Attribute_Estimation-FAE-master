@@ -1,0 +1,10 @@
+imutils
+pillow==6.2.2
+torch=1.2.0
+cuda_toolkit==10.0
+opencv-python
+matplotlib
+pandas
+scikit-learn
+tqdm
+mtcnn
